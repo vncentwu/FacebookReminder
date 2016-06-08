@@ -1,0 +1,8 @@
+PersonURL: https://www.facebook.com/messages/janet.chen.528
+Message: "Hi baby, English class isn't that important! Try your best, but don't stress yourself out. Love you. <3"
+Time: 19:00 - 24:00
+Frequency: 1:40
+PersonURL: https://www.facebook.com/messages/janet.chen.528
+Message: "Good morning baby Talk to you when I wake up. <3"
+Time: 9:00
+Frequency: 0
